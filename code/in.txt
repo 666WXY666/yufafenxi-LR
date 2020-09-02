@@ -1,0 +1,15 @@
+8
+E->E+T
+E->E-T
+E->T
+T->T*F
+T->T/F
+T->F
+F->(E)
+F->i
+5
+i+i-i*i/i$
+i+a-c$
+i$
+(i-i*i)$
+-i*i$

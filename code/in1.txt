@@ -1,0 +1,12 @@
+5
+D->TL
+T->i
+T->f
+L->d,L
+L->d
+5
+id,d,d$
+id,d$
+d,d,$
+idd,$
+i,dd$
